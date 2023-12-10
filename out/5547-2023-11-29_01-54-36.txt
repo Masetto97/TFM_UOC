@@ -1,0 +1,5 @@
+{
+  "empresa": "Adveo",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": "-1"
+}

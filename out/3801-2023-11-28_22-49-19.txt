@@ -1,0 +1,5 @@
+{
+  "empresa": "ACS",
+  "tipo": "Dividendos",
+  "sentido": "-1"
+}

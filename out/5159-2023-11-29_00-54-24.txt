@@ -1,0 +1,5 @@
+{
+  "empresa": "Siemens Gamesa",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": 0.8
+}

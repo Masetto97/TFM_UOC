@@ -1,0 +1,5 @@
+{
+  "empresa": "Gas Natural",
+  "tipo": "Desarrollo de Infraestructura y Proyectos",
+  "sentido": 1
+}

@@ -1,0 +1,5 @@
+{
+  "empresa": "Cox Energy",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": "0.8"
+}

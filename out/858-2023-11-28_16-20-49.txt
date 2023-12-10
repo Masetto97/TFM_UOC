@@ -1,0 +1,5 @@
+{
+  "empresa": "Sector Energético",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": "0.85"
+}

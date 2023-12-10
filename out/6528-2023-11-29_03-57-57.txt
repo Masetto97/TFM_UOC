@@ -1,0 +1,5 @@
+{
+  "empresa": "Repsol",
+  "tipo": "Desarrollo de Infraestructura y Proyectos",
+  "sentido": 1
+}

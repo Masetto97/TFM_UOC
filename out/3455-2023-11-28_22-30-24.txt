@@ -1,0 +1,5 @@
+{
+  "empresa": "Gas Natural Fenosa",
+  "tipo": "Desarrollo de Infraestructura y Proyectos",
+  "sentido": "0.8"
+}

@@ -1,0 +1,5 @@
+{
+  "empresa": "DEPA",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": -1
+}

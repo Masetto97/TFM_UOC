@@ -1,0 +1,5 @@
+{
+  "empresa": "Gas Natural",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": "-0.5"
+}

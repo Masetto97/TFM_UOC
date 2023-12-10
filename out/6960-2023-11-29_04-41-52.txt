@@ -1,0 +1,5 @@
+{
+  "empresa": "Solaria",
+  "tipo": "Dividendos",
+  "sentido": "-1"
+}

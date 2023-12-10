@@ -1,0 +1,5 @@
+{
+  "empresa": "Ence",
+  "tipo": "Desarrollo de Infraestructura y Proyectos",
+  "sentido": "0.8"
+}

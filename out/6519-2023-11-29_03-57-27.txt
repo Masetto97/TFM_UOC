@@ -1,0 +1,5 @@
+{
+  "empresa": "Naturgy",
+  "tipo": "Estrategia y Planificación Empresarial",
+  "sentido": "-0.6"
+}

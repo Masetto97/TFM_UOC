@@ -1,0 +1,5 @@
+{
+  "empresa": "Sector Energético",
+  "tipo": "Regulación y Asuntos Legales",
+  "sentido": -1
+}

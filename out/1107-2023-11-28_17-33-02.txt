@@ -1,0 +1,5 @@
+{
+  "empresa": "Telefónica Móviles",
+  "tipo": "Dividendos",
+  "sentido": "0.8"
+}

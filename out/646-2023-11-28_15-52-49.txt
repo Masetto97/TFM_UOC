@@ -1,0 +1,5 @@
+{
+  "empresa": "Iberdrola",
+  "tipo": "Desarrollo de Infraestructura y Proyectos",
+  "sentido": "-0.57"
+}

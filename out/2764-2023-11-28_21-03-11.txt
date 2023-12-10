@@ -1,0 +1,5 @@
+{
+  "empresa": "Unión Fenosa",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": "-0.9"
+}

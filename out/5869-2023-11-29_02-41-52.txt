@@ -1,0 +1,5 @@
+{
+  "empresa": "Endesa",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": "0.3"
+}

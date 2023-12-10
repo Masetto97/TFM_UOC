@@ -1,0 +1,5 @@
+{
+  "empresa": "Endesa",
+  "tipo": "Dividendos",
+  "sentido": "0.8"
+}

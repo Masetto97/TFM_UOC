@@ -1,0 +1,5 @@
+{
+  "empresa": "BBVA",
+  "tipo": "Regulación y Asuntos Legales",
+  "sentido": 0.5
+}

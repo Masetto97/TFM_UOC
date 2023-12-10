@@ -1,0 +1,5 @@
+{
+  "empresa": "Green Power",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": "0"
+}

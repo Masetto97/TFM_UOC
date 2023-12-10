@@ -1,0 +1,5 @@
+{
+  "empresa": "Abengoa SA",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": "-1"
+}

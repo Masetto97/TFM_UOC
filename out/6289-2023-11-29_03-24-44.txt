@@ -1,0 +1,5 @@
+{
+  "empresa": "Iberdrola",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": "0.035"
+}

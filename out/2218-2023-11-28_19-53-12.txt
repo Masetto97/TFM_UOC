@@ -1,0 +1,5 @@
+{
+  "empresa": "Telefónica",
+  "tipo": "Regulación y Asuntos Legales",
+  "sentido": "-1"
+}

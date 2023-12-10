@@ -1,0 +1,5 @@
+{
+  "empresa": "Iberdrola",
+  "tipo": "Dividendos",
+  "sentido": 1
+}

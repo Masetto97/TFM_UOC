@@ -1,0 +1,5 @@
+{
+  "empresa": "REE",
+  "tipo": "Estrategia y Planificación Empresarial",
+  "sentido": "-0.5"
+}

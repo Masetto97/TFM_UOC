@@ -1,0 +1,5 @@
+{
+  "empresa": "Engie",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": 0.8
+}

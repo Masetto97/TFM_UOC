@@ -1,0 +1,5 @@
+{
+  "empresa": "Atlantica Yield",
+  "tipo": "Dividendos",
+  "sentido": "-1"
+}

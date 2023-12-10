@@ -1,0 +1,5 @@
+{
+  "empresa": "Iberdrola",
+  "tipo": "Estrategia y Planificación Empresarial",
+  "sentido": 0.8
+}

@@ -1,0 +1,5 @@
+{
+  "empresa": "Naturgy",
+  "tipo": "Dividendos",
+  "sentido": "0.24"
+}

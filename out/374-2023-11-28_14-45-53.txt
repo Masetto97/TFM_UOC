@@ -1,0 +1,5 @@
+{
+  "empresa": "Gas Natural",
+  "tipo": "Estrategia y Planificación Empresarial",
+  "sentido": "-1"
+}

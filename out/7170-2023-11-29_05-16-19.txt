@@ -1,0 +1,5 @@
+{
+  "empresa": "EDP",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": "-0.18"
+}

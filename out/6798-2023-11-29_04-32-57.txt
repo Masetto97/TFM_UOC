@@ -1,0 +1,5 @@
+{
+  "empresa": "Acciona",
+  "tipo": "Regulación y Asuntos Legales",
+  "sentido": "1"
+}

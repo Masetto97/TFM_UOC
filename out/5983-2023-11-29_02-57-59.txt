@@ -1,0 +1,5 @@
+{
+  "empresa": "Red Eléctrica de España (REE)",
+  "tipo": "Regulación y Asuntos Legales",
+  "sentido": "0.8"
+}

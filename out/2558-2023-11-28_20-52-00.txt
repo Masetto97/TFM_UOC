@@ -1,0 +1,5 @@
+{
+  "empresa": "Gas Natural",
+  "tipo": "Dividendos",
+  "sentido": "0.8"
+}

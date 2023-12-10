@@ -1,0 +1,5 @@
+{
+  "empresa": "BBVA",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": 1
+}

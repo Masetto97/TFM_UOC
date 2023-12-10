@@ -1,0 +1,5 @@
+{
+  "empresa": "Sector Energético",
+  "tipo": "Dividendos",
+  "sentido": "1"
+}

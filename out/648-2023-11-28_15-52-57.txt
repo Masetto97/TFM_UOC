@@ -1,0 +1,5 @@
+{
+  "empresa": "Edison",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": "0.395"
+}

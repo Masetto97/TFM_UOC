@@ -1,0 +1,5 @@
+{
+  "empresa": "Hullera Vasco Leonesa",
+  "tipo": "Regulación y Asuntos Legales",
+  "sentido": -0.5
+}

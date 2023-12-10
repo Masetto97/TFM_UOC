@@ -1,0 +1,5 @@
+{
+  "empresa": "Saeta Yield",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": "-0.72"
+}

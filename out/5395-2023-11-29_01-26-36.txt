@@ -1,0 +1,5 @@
+{
+  "empresa": "Siemens Gamesa",
+  "tipo": "Estrategia y Planificación Empresarial",
+  "sentido": "1"
+}

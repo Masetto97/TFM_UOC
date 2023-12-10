@@ -1,0 +1,5 @@
+{
+  "empresa": "Abengoa Yield",
+  "tipo": "Negocios y Finanzas Corporativas",
+  "sentido": "-0.25"
+}

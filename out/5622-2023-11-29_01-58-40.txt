@@ -1,0 +1,5 @@
+{
+  "empresa": "Banco Santander",
+  "tipo": "Dividendos",
+  "sentido": "1"
+}
